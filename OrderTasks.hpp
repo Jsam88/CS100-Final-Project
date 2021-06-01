@@ -2,8 +2,9 @@
 #define __ORDERTASKS_HPP__
 
 #include <string>
+#include <vector>
 #include <iostream>
-#include "Task_MockTestforStrategyPattern.hpp"
+//#include "Task_MockTestforStrategyPattern.hpp"
 
 using namespace std;
 

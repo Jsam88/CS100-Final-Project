@@ -36,4 +36,4 @@ protected:
 int Task::numberOfIndents = 1;
 int Task::firstLayerDirectorySubtaskDisplayFlag = 0;
 
-#endif __TASK_HPP__
+#endif //__TASK_HPP__
